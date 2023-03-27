@@ -1,0 +1,8 @@
+# Ignore all files and directories in the root directory
+/*
+
+# Keep the Procfile
+!Procfile
+
+# Keep the requirements.txt file
+!requirements.txt
