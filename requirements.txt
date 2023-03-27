@@ -1,1 +1,2 @@
 gunicorn==20.1.0
+keras==2.12.0
